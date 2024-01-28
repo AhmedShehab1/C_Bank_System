@@ -15,15 +15,5 @@ info head;
 priv Admin;
 u32 main()
 {
-	 User_Choice();
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	User_Choice();	
 }
